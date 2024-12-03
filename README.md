@@ -37,7 +37,7 @@ Navigate to the project directory:
 cd AWS-MySQL-DB-Cluster-with-Proxy-and-Gatekeeper-Patterns
 
 Create a virtual environment: 
-python -m venv log8415_lab3
+python3.12 -m venv log8415_lab3
 
 Run the script:
 ./start.sh 

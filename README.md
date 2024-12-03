@@ -8,7 +8,7 @@ This is the final project assignment for the cloud computing course on fall 2024
 This project implements a MySQL database cluster on AWS EC2 instances, utilizing Proxy and Gatekeeper cloud design patterns. The setup emphasizes scalability, security, and performance using automated scripts and benchmarking tools.
 
 
-##Features
+## Features
 
 - MySQL Cluster:
 Configured with three nodes: one manager and two workers.

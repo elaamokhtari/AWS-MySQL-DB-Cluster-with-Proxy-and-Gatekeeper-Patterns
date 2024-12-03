@@ -2,10 +2,4 @@ tags
 *.pem
 __pycache__/
 log8415_lab3/*
-benchmark/query_statistics.txt
-benchmark/gatekeeper_info.json
-infrastructure/sysbench_statistics.log
-mysql/gatekeeper/trustedhost_info.json
-mysql/master/instance_info.json
-mysql/proxy_manager/instance_info.json
-mysql/trusted_host/proxy_info.json
+

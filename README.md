@@ -31,10 +31,13 @@ Trusted Host: Processes validated requests internally.
 ## How to Run
 
 Clone the repository:
-https://github.com/elaamokhtari/AWS-MySQL-DB-Cluster-with-Proxy-and-Gatekeeper-Patterns.git
+git clone https://github.com/elaamokhtari/AWS-MySQL-DB-Cluster-with-Proxy-and-Gatekeeper-Patterns.git
 
 Navigate to the project directory:
 cd AWS-MySQL-DB-Cluster-with-Proxy-and-Gatekeeper-Patterns
+
+Create a virtual environment: 
+python -m venv log8415_lab3
 
 Run the script:
 ./start.sh 
